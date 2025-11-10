@@ -1,1 +1,0 @@
-export { default } from "file:///Users/maryan/Documents/GitHub/mxn-mypass/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
